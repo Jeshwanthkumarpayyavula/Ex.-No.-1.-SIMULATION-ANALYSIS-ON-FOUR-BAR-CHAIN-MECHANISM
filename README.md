@@ -53,6 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742402/1ff0305b-fc40-4afb-8fc1-87c5a2444228)
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742402/957ec4f0-42bc-4bf9-aaa0-9652d8f51c1e)
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742402/1bddeacf-767a-4406-bd1f-4435d80e70a5)
+
 
 
 ### Name:
